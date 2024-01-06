@@ -1,0 +1,9 @@
+set(ASTEROID_SOURCE_STATES
+    source/states/Loading.cpp
+    source/states/RaySplash.cpp
+    source/states/Splash.cpp
+    source/states/Credit.cpp
+    source/states/Title.cpp
+    source/states/Shop.cpp
+    source/states/Game.cpp
+)
